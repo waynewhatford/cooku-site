@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["UV383PKUQW.app.rork.yvhsdbye40j31yiidcimg"],
+        "components": [
+          { "/": "/import*", "comment": "Recipe import from share extension" }
+        ]
+      }
+    ]
+  }
+}
